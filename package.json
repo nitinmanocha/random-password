@@ -1,0 +1,17 @@
+{
+  "name": "random-password",
+  "version": "1.0.0",
+  "description": "generate random alphanumeric password",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "password",
+    "generator"
+  ],
+  "author": "https://nitinmanocha.in",
+  "license": "ISC"
+}
